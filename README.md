@@ -1,6 +1,6 @@
 # mpp_ClientServer
 c# Client Server application
-#Enuntul
+# Enuntul
 Organizatorii unui teledon în scopuri caritabile folosesc un sistem soft pentru gestiunea donațiilor făcute în
 timpul emisiunii TV (teledonul) pentru diferite cazuri caritabile. În cadrul emisiunii, mai mulți voluntari
 răspund la telefon și înregistrează donațiile. Fiecare voluntar folosește o aplicație desktop cu următoarele
